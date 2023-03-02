@@ -1,0 +1,17 @@
+ LG Reboot download
+ Detectando Dispositivo.....
+ Dispositivo Detectado: OK
+ Modelo: Redmi Note 4
+ Software IMEI:  Version de Android: 
+ Hardware: 
+ Software: 
+ Compilación: 
+ Marca: 
+ Dispositivo detectado en el puerto: 
+ Reiniciando en modo Download...
+Detectando en modo Download...
+ Dispositivo no detectado, proceso fallido...
+ MCU Tool v4.1
+ Dispositivo detectado en el puerto: 
+ Proceso terminado!
+ MCU Tool v4.1

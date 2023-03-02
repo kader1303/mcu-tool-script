@@ -1,0 +1,97 @@
+SM-J260T,T-Mobile,2-3,J260T/T1 && J737T/T1 Unlock,J260T/T1 && J737T/T1 Unlock
+SM-J260T1,MetroPCS,2-3,J260T/T1 && J737T/T1 Unlock,J260T/T1 && J737T/T1 Unlock
+SM-J737T,T-Mobile,3-4-5,J260T/T1 && J737T/T1 Unlock,J260T/T1 && J737T/T1 Unlock
+SM-J737T1,MetroPCS,3-4-5,J260T/T1 && J737T/T1 Unlock,J260T/T1 && J737T/T1 Unlock
+SM-G360T,T-Mobile,ALL,G360T/T1 && G530T/T1 Unlock,Fast Unlock && Modem Unlock
+SM-G360T1,MetroPCS,ALL,G360T/T1 && G530T/T1 Unlock,Fast Unlock && Modem Unlock
+SM-G530T,T-Mobile,ALL,G360T/T1 && G530T/T1 Unlock,Fast Unlock && Modem Unlock
+SM-G530T1,MetroPCS,ALL,G360T/T1 && G530T/T1 Unlock,Fast Unlock && Modem Unlock
+SM-N920T,T-Mobile,ALL,TMobile/Metro App Unlock,TMobile/Metro App Unlock
+SM-N920T1,MetroPCS,ALL,TMobile/Metro App Unlock,TMobile/Metro App Unlock
+SM-G920T,T-Mobile,ALL,TMobile/Metro App Unlock,TMobile/Metro App Unlock
+SM-G920T1,MetroPCS,ALL,TMobile/Metro App Unlock,TMobile/Metro App Unlock
+SM-G925T,T-Mobile,ALL,TMobile/Metro App Unlock,TMobile/Metro App Unlock
+SM-G925T1,MetroPCS,ALL,TMobile/Metro App Unlock,TMobile/Metro App Unlock
+SM-G928T,T-Mobile,ALL,TMobile/Metro App Unlock,TMobile/Metro App Unlock
+SM-G928T1,MetroPCS,ALL,TMobile/Metro App Unlock,TMobile/Metro App Unlock
+SM-J700T,T-Mobile,ALL,TMobile/Metro App Unlock,TMobile/Metro App Unlock
+SM-J700T1,MetroPCS,ALL,TMobile/Metro App Unlock,TMobile/Metro App Unlock
+SM-G550T,T-Mobile,ALL,TMobile/Metro App Unlock,TMobile/Metro App Unlock
+SM-G550T1,MetroPCS,ALL,TMobile/Metro App Unlock,TMobile/Metro App Unlock
+SM-J327T,T-Mobile,1-2-3,J327T/T1 Unlock,Fast Unlock && Free Unlock
+SM-J327T1,MetroPCS,1-2-3,J327T/T1 Unlock,Fast Unlock && Free Unlock
+SPH-L720,Sprint,ALL,Sprint Unlock 2017 && MCU Sprint Unlock && Old Qualcomm Unlock ,No root Unlock && Root Unlock && MCU Sprint Unlock && Old Qualcomm Unlock
+SPH-L720T,Sprint,ALL,Sprint Unlock 2017 && MCU Sprint Unlock,No root Unlock && Root Unlock && MCU Sprint Unlock
+SM-J320P,Sprint,1-2-3,Sprint Unlock 2017 && MCU Sprint Unlock,No root Unlock && Root Unlock && MCU Sprint Unlock
+SM-J700P,Sprint,ALL,Sprint Unlock 2017 && Sprint Unlock 2018 && MCU Sprint Unlock,No root Unlock && Root Unlock && Sprint Unlock 2018 && MCU Sprint Unlock
+SM-G860P,Sprint,ALL,Sprint Unlock 2017 && MCU Sprint Unlock,No root Unlock && Root Unlock && MCU Sprint Unlock
+SM-G900P,Sprint,ALL,Sprint Unlock 2017 && MCU Sprint Unlock,No root Unlock && Root Unlock && MCU Sprint Unlock
+SM-G920P,Sprint,ALL,Sprint Unlock 2017 && MCU Sprint Unlock,No root Unlock && Root Unlock && MCU Sprint Unlock
+SM-G925P,Sprint,ALL,Sprint Unlock 2017 && MCU Sprint Unlock,No root Unlock && Root Unlock && MCU Sprint Unlock
+SM-G928P,Sprint,ALL,Sprint Unlock 2017 && MCU Sprint Unlock,No root Unlock && Root Unlock && MCU Sprint Unlock
+SM-N900P,Sprint,ALL,Sprint Unlock 2017 && MCU Sprint Unlock,No root Unlock && Root Unlock && MCU Sprint Unlock
+SM-N910P,Sprint,ALL,Sprint Unlock 2017 && MCU Sprint Unlock ,No root Unlock && Root Unlock && MCU Sprint Unlock
+SM-N915P,Sprint,ALL,Sprint Unlock 2017 && MCU Sprint Unlock,No root Unlock && Root Unlock && MCU Sprint Unlock
+SM-N920P,Sprint,ALL,Sprint Unlock 2017 && MCU Sprint Unlock,No root Unlock && Root Unlock && MCU Sprint Unlock
+SM-N930,Sprint,ALL,MCU Sprint Unlock, MCU Sprint Unlock
+SM-T337P,Sprint,ALL,MCU Sprint Unlock, MCU Sprint Unlock
+SM-T587P,Sprint,ALL,MCU Sprint Unlock, MCU Sprint Unlock
+SM-J327P,Sprint,1-2,Sprint Unlock 2018 && MCU Sprint Unlock,Sprint Unlock 2018 && MCU Sprint Unlock
+SM-J727P,Sprint,1-2,Sprint Unlock 2018 && MCU Sprint Unlock,Sprint Unlock 2018 && MCU Sprint Unlock
+SM-G930P,Sprint,ALL,Sprint Unlock 2018,Sprint Unlock 2018
+SM-G935P,Sprint,ALL,Sprint Unlock 2018 && MCU Sprint Unlock,Sprint Unlock 2018 && MCU Sprint Unlock
+SM-N930P,Sprint,ALL,Sprint Unlock 2018,Sprint Unlock 2018
+SM-G950U,Sprint,1-2,Sprint Unlock 2018 && MCU Sprint Unlock,Sprint Unlock 2018 && MCU Sprint Unlock
+SM-G955U,Sprint,1-2,Sprint Unlock 2018 && MCU Sprint Unlock,Sprint Unlock 2018 && MCU Sprint Unlock
+SM-N950U,Sprint,1-2-3,Sprint Unlock 2018 && MCU Sprint Unlock,Sprint Unlock 2018 && MCU Sprint Unlock
+GT-S7710,ALL,Not Present,Old Qualcomm Unlock,Old Qualcomm Unlock
+GT-i9502,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-I9295,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-I9230,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-I9190,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-I9105,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-S6310,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-S5303,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SM-G3812,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-I8550,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-S7572,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-S5280,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-S7260,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-S7582,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SM-G910S,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-S5310,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SM-N9005,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-I9200,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-I8730,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-I8260,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-i9500,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-i337,AT&T,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-i545,Verizon,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-M919,AT&T / T-Mobile,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SHV-E330S,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-i9505G,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-i9515,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-i9515L,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SCH-i535,Verizon,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-i747,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-T999,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SPH-L710,Sprint,Not Present,Old Qualcomm Unlock && Sprint Unlock 2017 && MCU Sprint Unlock ,No root Unlock && Root Unlock && MCU Sprint Unlock && Old Qualcomm Unlock
+GT-S7560M,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-S7500,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-I827,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-S730M,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-i437,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-S6500D,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-S6500,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-i717,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-T879,T-Mobile,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-S5570i,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-i547,AT&T,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-T769,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+GT-S7562,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SGH-T699,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SCH-i415,ALL,Not Present,Old Qualcomm Unlock, Old Qualcomm Unlock
+SPH-L300,Sprint,Not Present,Old Qualcomm Unlock && Sprint Unlock 2017 && MCU Sprint Unlock ,No root Unlock && Root Unlock && MCU Sprint Unlock && Old Qualcomm Unlock
+
+
+
